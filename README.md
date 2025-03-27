@@ -1,6 +1,6 @@
 # AgentScript
 
-AgentScript is a simple, observable code agent builder in TypeScript. Inspired by Hugging Face’s [smolagents](https://github.com/huggingface/smolagents) 🤗, we’re bringing agentic capabilities to TypeScript, making it easier to build production-ready AI agents.
+AgentScript is a simple, observable **code-writing** agent builder in TypeScript. Our agents write and execute javascript to accomplish complex tasks. Inspired by Hugging Face’s [smolagents](https://github.com/huggingface/smolagents) 🤗, we’re bringing agentic capabilities to TypeScript, making it easier to build production-ready AI agents.
 
 ## Demo
 
@@ -93,5 +93,6 @@ That’s why we believe that code-writing agents are the best agents in terms of
 
 Contributions are welcome. Please fork and submit a pull request to main.
 
-## Who are We 
+## Who are We
+
 We're a small team of builders based out of Toronto, San Francisco, and Mumbai -- find more about us at [here](https://heyarctic.io/). If you're interested in our work, reach out at hello@heyarctic.io.

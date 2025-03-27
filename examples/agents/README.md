@@ -1,6 +1,6 @@
 # Agents
 
-`npm install`, then create a `.env` file in this folder with, at a minimum
+`npm install`, then create a `.env` file in this folder with, at a minimum. You may also need `npx playwright install` if you haven't downloaded browsers for playwright yet.
 
 ```
 OPENAI_API_KEY=<your-key>
