@@ -92,3 +92,6 @@ That’s why we believe that code-writing agents are the best agents in terms of
 ## Contributing
 
 Contributions are welcome. Please fork and submit a pull request to main.
+
+## Who are We 
+We're a small team of builders based out of Toronto, San Francisco, and Mumbai -- find more about us at [here](https://heyarctic.io/). If you're interested in our work, reach out at hello@heyarctic.io.
