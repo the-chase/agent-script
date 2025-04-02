@@ -5,5 +5,7 @@ export * from './bingSearchUdf';
 export * from './duckduckgoSearchUdf';
 export * from './datasheetWriteUdf';
 export * from './notebookWriteUdf';
+export * from './saveDataUdf';
+export * from './analyzeListUdf';
 export * from './thinkUdf';
 export * from './callAgentUdf';
